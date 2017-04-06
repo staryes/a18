@@ -1,4 +1,3 @@
-defaults:
     # _posts
     - scops:
       path: ""
