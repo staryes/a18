@@ -1,0 +1,14 @@
+current directory: /Users/turtalk/Google Drive/a18/vendor/bundle/ruby/2.0.0/gems/json-1.8.6/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby -r ./siteconf20170406-2522-1xrm8aj.rb extconf.rb
+creating Makefile
+
+current directory: /Users/turtalk/Google Drive/a18/vendor/bundle/ruby/2.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/turtalk/Google Drive/a18/vendor/bundle/ruby/2.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/turtalk/Google Drive/a18/vendor/bundle/ruby/2.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
+installing default libraries
